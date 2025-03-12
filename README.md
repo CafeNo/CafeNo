@@ -1,23 +1,23 @@
 <h1 align="center">Greeting 👋, I'm Thanakorn Posiri</h1>
 <h3 align="center">A passionate and curious developer with a strong interest in back-end and full-stack development. Experienced in handling APIs, optimizing system performance, and integrating web technologies. Always eager to learn, adapt, and contribute to an innovative engineering team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cafeno&label=Profile%20views&color=ff75d3&style=flat" alt="[CafeNo](https://github.com/CafeNo)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cafeno&label=Profile%20views&color=ff75d3&style=flat" alt="cafeno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cafeno" alt="cafeno" /></a> </p>
 
-- 🔭 I’m currently working on **Industrial of Digital Storage**
+- I’m currently working on **Industrial of Digital Storage**
 
-- 💣 I'm learning on **Roblox development**
+- I'm learning on **Roblox development**
 
 - I'm founder of [Shirin Ch.](https://www.youtube.com/@Shirin_Ch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thanakorn posiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanakorn posiri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thanakorn-posiri-57b2681b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanakorn-posiri-57b2681b2/" height="30" width="40" /></a>
 <a href="https://kaggle.com/cafeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cafeno" height="30" width="40" /></a>
-<a href="https://fb.com/joker thanakorn posiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joker thanakorn posiri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jokerthanakorn.p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jokerthanakorn.p/" height="30" width="40" /></a>
 <a href="https://instagram.com/thejoker.cfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thejoker.cfn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shirin ch." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirin ch." height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Shirin_Ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shirin_ch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
