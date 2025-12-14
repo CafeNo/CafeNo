@@ -7,7 +7,7 @@
 
 - I’m currently working on **Industrial of Digital Storage**
 
-- I'm learning on **Roblox development**
+- I'm learning on **Game and Artificial Intelligence NPC development**
 
 - I'm founder of [Shirin Ch.](https://www.youtube.com/@Shirin_Ch)
 
